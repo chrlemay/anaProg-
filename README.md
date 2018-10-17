@@ -1,4 +1,4 @@
-NaaNaam :Lemay Christian
+Naam :Lemay Christian
 
 Doel : iets kunnen programmeren in C# en databank aanmaken 
 
